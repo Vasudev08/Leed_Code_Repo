@@ -1,0 +1,25 @@
+1. Valid Anagram -> Done
+
+2. Two Sum
+3. 3Sum
+4. Best Time to Buy and Sell Stock
+5. Longest Repeating Character Replacement
+6. Minimum Window Substring
+7. Find Minimum In Rotated Sorted Array
+8. Reorder List
+9. Merge K Sorted Lists
+10. Validate Binary Search Tree
+11. Binary Tree Maximum Path Sum
+12. Implement Trie Prefix Tree
+13. Clone Graph
+14. Pacific Atlantic Water Flow
+15. Course Schedule
+16. Number of Connected Components In An Undirected Graph
+17. Graph Valid Tree
+18. Min Cost Climbing Stairs
+19. House Robber
+20. Decode Ways
+21. Coin Change
+22. Insert Interval
+23. Non Overlapping Intervals
+24. Rotate Image
