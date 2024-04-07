@@ -6,7 +6,8 @@
 
 4. Best Time to Buy and Sell Stock  -> Done
 
-5. Longest Repeating Character Replacement
+5. Longest Repeating Character Replacement -> Done
+
 6. Minimum Window Substring
 7. Find Minimum In Rotated Sorted Array
 8. Reorder List
