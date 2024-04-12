@@ -8,7 +8,10 @@
 
 5. Longest Repeating Character Replacement -> Done
 
-6. Minimum Window Substring
+6. Minimum Window Substring -> Done
+
+6.1 Search In Rotated Sorted Arary
+
 7. Find Minimum In Rotated Sorted Array
 8. Reorder List
 9. Merge K Sorted Lists
