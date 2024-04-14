@@ -12,7 +12,7 @@
 
 6.1 Search In Rotated Sorted Arary -> Done
 
-7. Find Minimum In Rotated Sorted Array
+7. Find Minimum In Rotated Sorted Array -> Done
 8. Reorder List
 9. Merge K Sorted Lists
 10. Validate Binary Search Tree
