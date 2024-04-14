@@ -10,7 +10,7 @@
 
 6. Minimum Window Substring -> Done
 
-6.1 Search In Rotated Sorted Arary
+6.1 Search In Rotated Sorted Arary -> Done
 
 7. Find Minimum In Rotated Sorted Array
 8. Reorder List
