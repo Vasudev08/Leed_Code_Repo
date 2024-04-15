@@ -16,7 +16,8 @@
 
 8. Reorder List -> Done
 
-9. Merge K Sorted Lists
+9. Merge K Sorted Lists -> Currently Doing
+
 10. Validate Binary Search Tree
 11. Binary Tree Maximum Path Sum
 12. Implement Trie Prefix Tree
