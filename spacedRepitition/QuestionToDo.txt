@@ -18,9 +18,9 @@
 
 9. Merge K Sorted Lists -> Done
 
-10. Validate Binary Search Tree -> Currently Doing
+10. Validate Binary Search Tree -> Done
 
-11. Binary Tree Maximum Path Sum
+11. Binary Tree Maximum Path Sum -> Currently Doing
 12. Implement Trie Prefix Tree
 13. Clone Graph
 14. Pacific Atlantic Water Flow
