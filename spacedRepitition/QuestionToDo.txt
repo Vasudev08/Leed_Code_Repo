@@ -20,9 +20,12 @@
 
 10. Validate Binary Search Tree -> Done
 
-11. Binary Tree Maximum Path Sum -> Currently Doing
-12. Implement Trie Prefix Tree
-13. Clone Graph
+11. Binary Tree Maximum Path Sum -> Done
+
+12. Implement Trie Prefix Tree -> Done
+
+13. Clone Graph -> Done
+
 14. Pacific Atlantic Water Flow
 15. Course Schedule
 16. Number of Connected Components In An Undirected Graph
