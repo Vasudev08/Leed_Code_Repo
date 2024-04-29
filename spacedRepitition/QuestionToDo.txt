@@ -30,9 +30,7 @@
 
 15. Course Schedule -> Done -> best graph question
 
-16. Number of Connected Components In An Undirected Graph
-17. Graph Valid Tree
-18. Min Cost Climbing Stairs
+18. Min Cost Climbing Stairs -> Currently Doing
 19. House Robber
 20. Decode Ways
 21. Coin Change
