@@ -30,9 +30,12 @@
 
 15. Course Schedule -> Done -> best graph question
 
-18. Min Cost Climbing Stairs -> Currently Doing
-19. House Robber
-20. Decode Ways
+18. Min Cost Climbing Stairs -> Done
+
+19. House Robber -> Done -> find a better dp solution
+
+20. Decode Ways -> Currently Doing
+
 21. Coin Change
 22. Insert Interval
 23. Non Overlapping Intervals
