@@ -34,9 +34,10 @@
 
 19. House Robber -> Done -> find a better dp solution
 
-20. Decode Ways -> Currently Doing
+20. Decode Ways -> Done
 
 21. Coin Change
+
 22. Insert Interval
 23. Non Overlapping Intervals
 24. Rotate Image
