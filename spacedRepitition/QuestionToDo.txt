@@ -36,9 +36,10 @@
 
 20. Decode Ways -> Done
 
-21. Coin Change
+21. Coin Change -> Done
 
-22. Insert Interval
+22. Insert Interval -> Currently Doing it
+
 23. Non Overlapping Intervals
 24. Rotate Image
 25. Kth Largest Element in an Array
