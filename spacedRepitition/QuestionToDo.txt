@@ -38,8 +38,11 @@
 
 21. Coin Change -> Done
 
-22. Insert Interval -> Currently Doing it
+22. Insert Interval -> Done
 
-23. Non Overlapping Intervals
-24. Rotate Image
-25. Kth Largest Element in an Array
+23. Non Overlapping Intervals -> Done
+
+24. Rotate Image -> Done
+
+25. Kth Largest Element in an Array -> Currently doing it
+the above question also come in interview
