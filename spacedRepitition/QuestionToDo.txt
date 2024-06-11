@@ -44,5 +44,13 @@
 
 24. Rotate Image -> Done
 
-25. Kth Largest Element in an Array -> Currently doing it
-the above question also come in interview
+25. Kth Largest Element in an Array -> Done
+
+Question list:
+1. Blind 75
+    https://neetcode.io/practice 
+2. NeetCode 150/ SeanPrashad 180
+    https://seanprashad.com/leetcode-patterns/
+3. LeetCode Weekly Contest Question/ Most Frequently questions
+    https://leetcode.com/
+
