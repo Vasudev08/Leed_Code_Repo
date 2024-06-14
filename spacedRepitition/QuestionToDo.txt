@@ -54,3 +54,35 @@ Question list:
 3. LeetCode Weekly Contest Question/ Most Frequently questions
     https://leetcode.com/
 
+
+
+
+
+
+
+
+
+
+
+
+DFS Medimum Question list:
+    1. Number of Islands
+    2. Course Schedule
+    3. Course Schedule II
+    4. Lowest Common  Binary Tree
+    5. Validate Binary Secarch Tree
+
+Dynamic Programming Question List:
+    1. House Robber 
+    2. Maximum SubArray
+    3. Longest Palindromic
+    4. Jump Game
+    5. Unique Paths
+
+Backtracking Question List:
+    1. Letter Combinations of a phone Number
+    2. Generate Parentheses
+    3. Combinations
+    4. subsets
+    5. Word Search
+
