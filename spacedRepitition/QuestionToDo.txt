@@ -12,9 +12,9 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
     - Easy (3): 
             1.Path Sum -> Done
             2. Maximum Depth of Binary Tree -> Done
-            3. Diameter of Binary Tree
+            3. Diameter of Binary Tree -> Done
     - Medium (6):  
-            1. Number of Islands
+            1. Number of Islands -> Done
             2. Course Schedule
             3. Course Schedule II
             4. Lowest Common  Binary Tree
@@ -25,8 +25,8 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
 
 - Dynamic Programming
     - Easy (3): 
-            1. Climbing Stairs
-            2. Range Sum Immutable
+            1. Climbing Stairs -> Done
+            2. Range Sum Immutable -> Done
             3. Counting Bits
     - Medium (7):
             1. House Robber 
