@@ -15,7 +15,7 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
             3. Diameter of Binary Tree -> Done
     - Medium (6):  
             1. Number of Islands -> Done
-            2. Course Schedule
+            2. Course Schedule -> Done
             3. Course Schedule II
             4. Lowest Common  Binary Tree
             5. Validate Binary Secarch Tree
@@ -27,7 +27,7 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
     - Easy (3): 
             1. Climbing Stairs -> Done
             2. Range Sum Immutable -> Done
-            3. Counting Bits
+            3. Counting Bits -> Done
     - Medium (7):
             1. House Robber 
             2. Maximum SubArray
@@ -39,7 +39,7 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
      
 - Backtracking
     - Easy (1): 
-            1. Binary Tree Paths
+            1. Binary Tree Paths -> Done
     - Medium (7):     
             1. Letter Combinations of a phone Number
             2. Generate Parentheses
