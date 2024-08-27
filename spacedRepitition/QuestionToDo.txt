@@ -31,8 +31,8 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
     - Medium (7):
             1. House Robber -> Done
             2. Maximum SubArray -> Done
-            3. Longest Palindromic Substring
-            4. Jump Game
+            3. Longest Palindromic Substring -> Done
+            4. Jump Game -> Done
             5. Unique Paths 
             6. Decode Ways
             7. Word Break 
