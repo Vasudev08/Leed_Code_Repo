@@ -5,7 +5,11 @@ Question list:
     https://seanprashad.com/leetcode-patterns/
 3. LeetCode Weekly Contest Question/ Most Frequently questions
     https://leetcode.com/
+4. Google Interview Practice Offical Website
+    https://techdevguide.withgoogle.com/paths/interview/
+
 follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
+
 
 10 questions each for following pattern (for now):
 - DFS (Depth First Search)
@@ -34,8 +38,8 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
             3. Longest Palindromic Substring -> Done
             4. Jump Game -> Done
             5. Unique Paths -> Done
-            6. Decode Ways -> Currently Doing it
-            7. Word Break 
+            6. Decode Ways -> Done (Best Question) (dp + dfs)
+            7. Word Break -> Done (2nd Best Question) (dp)
      
 - Backtracking
     - Easy (1): 
