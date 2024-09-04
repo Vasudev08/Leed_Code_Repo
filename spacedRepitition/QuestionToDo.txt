@@ -20,7 +20,7 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
     - Medium (6):  
             1. Number of Islands -> Done
             2. Course Schedule -> Done
-            3. Course Schedule II
+            3. Course Schedule II -> Done (Good Question)
             4. Lowest Common  Binary Tree
             5. Validate Binary Secarch Tree
             6. Kth Smallest Element in a BST     
