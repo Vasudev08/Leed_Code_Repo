@@ -23,8 +23,8 @@ AI - learn
             2. Course Schedule -> Done
             3. Course Schedule II -> Done (Good Question)
             4. Lowest Common  Binary Tree -> Done
-            5. Validate Binary Secarch Tree -> Currently Doing it
-            6. Kth Smallest Element in a BST     
+            5. Validate Binary Secarch Tree -> Done
+            6. Kth Smallest Element in a BST -> Done
     - Hard (1): 
             1. Binary Tree Maximum Path Sum
 
