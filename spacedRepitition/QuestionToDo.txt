@@ -26,7 +26,7 @@ AI - learn
             5. Validate Binary Secarch Tree -> Done
             6. Kth Smallest Element in a BST -> Done
     - Hard (1): 
-            1. Binary Tree Maximum Path Sum
+            1. Binary Tree Maximum Path Sum -> Done
 
 - Dynamic Programming
     - Easy (3): 
@@ -47,7 +47,7 @@ AI - learn
             1. Binary Tree Paths -> Done
     - Medium (7):     
             1. Letter Combinations of a phone Number -> Done
-            2. Generate Parentheses
+            2. Generate Parentheses -> Currently Doing it
             3. Combinations
             4. subsets
             5. Word Search
