@@ -47,8 +47,8 @@ AI - learn
             1. Binary Tree Paths -> Done
     - Medium (7):     
             1. Letter Combinations of a phone Number -> Done
-            2. Generate Parentheses -> Currently Doing it
-            3. Combinations
+            2. Generate Parentheses -> Done
+            3. Combinations -> Currently Doing it
             4. subsets
             5. Word Search
             6. Palindrome Partioning
