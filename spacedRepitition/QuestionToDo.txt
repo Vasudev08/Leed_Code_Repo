@@ -48,7 +48,7 @@ AI - learn
     - Medium (7):     
             1. Letter Combinations of a phone Number -> Done
             2. Generate Parentheses -> Done
-            3. Combinations -> Currently Doing it
+            3. Combinations -> Done (Good Question)
             4. subsets
             5. Word Search
             6. Palindrome Partioning
