@@ -49,7 +49,7 @@ AI - learn
             1. Letter Combinations of a phone Number -> Done
             2. Generate Parentheses -> Done
             3. Combinations -> Done (Good Question)
-            4. subsets
+            4. subsets -> Done (Good Question)
             5. Word Search
             6. Palindrome Partioning
             7. Combination Sum
