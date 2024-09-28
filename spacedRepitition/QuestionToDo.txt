@@ -50,8 +50,8 @@ AI - learn
             2. Generate Parentheses -> Done
             3. Combinations -> Done (Good Question)
             4. subsets -> Done (Good Question)
-            5. Word Search
-            6. Palindrome Partioning
+            5. Word Search -> Done
+            6. Palindrome Partioning -> Done (Good Question)
             7. Combination Sum
     - Hard (2): 
             1. Sudoku Solver
