@@ -11,7 +11,132 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
 system design - learn
 AI - learn
 
+Google Interview practice - 86 Questions
+- Pattern Wise Practice
+- 3 questions per pattern then switch
+- Medium Questions Focus 
+- Weekend let spinning wheel decide a surprise question  
+- Easy - 24 Questions
+        - 1. Two Pointers - 6 Questions
+                1.1 Merge Two Sorted Lists - In Rotation
+                1.2 Two Sum
+                1.3 Squares of a Sorted Array
+                1.4 Backspace String Compare
+                1.5 Move Zeros
+                1.6 Is Subsequence
+        - 2. DFS - 6 Questions
+                2.1 Same Tree
+                2.2 Path Sum
+                2.3 Maximum Depth of Binary Tree
+                2.4 Diameter of Binary Tree
+                2.5 Invert Binary Tree
+                2.6 Binary Tree Paths
+        - 3. Array - 5 Questions
+                3.1 Contains Duplicate
+                3.2 Missing Number
+                3.3 Single Number
+                3.4 Convert 1D Array into 2D
+                3.5 Move Zeroes 
+        - 4. Fast & Slow Pointers - 4 Questions
+                4.1 Linked List Cycle
+                4.2 Middle of the Linked List
+                4.3 Palindrome Linked List
+                4.4 Remove Duplicates from sorted List
+        - 5. Bit Manipulation - 2 Questions
+                5.1 Missing Number
+                5.2 Single Number
+        - 6. Dynamic Programming - 2 Questions
+                6.1 Climbing Stairs
+                6.2 Range Sum Query - Immutable
 
+- Medium - 58 Questions
+        - 1. DFS - 15 Questions
+                1.1 Target Sum -> Do it tomorrow
+                1.2 Pacific Atlantic Water Flow
+                1.3 Number of Islands
+                1.4 Graph Valid Tree
+                1.5 Number of connected components in an undirected graph
+                1.6 Kth Smallest Element in a BST
+                1.7 Course Schedule
+                1.8 Course Schedule II
+                1.9 Binary Tree Right Side View
+                1.10 All Nodes Distance K in Binary Tree
+                1.11 Lowest Common Ancestor of a Binary Serach Tree
+                1.12 Path Sum II
+                1.13 Lowest Common Ancestor of a Binary Tree
+                1.14 Construct Binary Tree from Preorder and Inorder Traversal
+                1.15 Valid Binary Serach Tree
+                
+        - 2. Dynamic Programming - 14 Questions
+                2.1 Target Sum
+                2.2 House Robber
+                2.3 Maximum SubArray
+                2.4 House Robber II
+                2.5 Coin Change
+                2.6 Maximum Product SubArray
+                2.7 Longest Increase Subsequence
+                2.8 Longest Palindromic Substring
+                2.9 Work Break
+                2.10 Decode Ways
+                2.11 Unique Paths
+                2.12 Jump Game
+                2.13 Palindromic Substrings
+                2.14 Partition Equal Subset Sum
+        - 3. BFS - 11 Questions
+                3.1 Graph Valid Tree
+                3.2 Number of connected components in an undirected Graph
+                3.3 Course Schedule
+                3.4 Course Schedule II
+                3.5 Minimum Height Trees
+                3.6 Binary Tree Level Order Traversal
+                3.7 Binary Tree ZigZag Level Order Traversal
+                3.8 Binary Tree Right Side View
+                3.9 All Nodes Distance K in Binary Tree
+                3.10 Pacific Atlantic Water Flow
+                3.11 Number of Islands
+        - 4. Backtracking - 10 Questions
+                4.1 Word Serach
+                4.2 subsets
+                4.3 SubSets II
+                4.4 Permutations 
+                4.5 Combination Sum
+                4.6 Combination Sum II
+                4.7 Generate Parentheses
+                4.8 Target Sum
+                4.9 Palindrome Partioning
+                4.10 Letter Combinations of a Phone Number
+        - 5. Binary Search - 8 questions
+                5.1 Find the Duplicate Number
+                5.2 Peak Index in a Mountain Array
+                5.3 Find Minimum in Rotated Sorted Array
+                5.4 Find Peak Element
+                5.5 Serach in Rotated sorted Array
+                5.6 Search a 2D Matrix
+                5.7 Serach a 2D Matrix II
+                5.8 Find K Closest Elements
+
+- Hard - 14 Questions
+        - 1. Sliding Window - 4 Questions
+                1.1 Sliding Window Maximum
+                1.2 Minimum Number of K Conseeutive Bit Flips
+                1.3 Minimum Window Substring
+                1.4 SubString With Concatentation of All Words
+        - 2. Heap - 3 Questions
+                2.1 Merge K Sorted Lists 
+                2.2 Employee Free Time
+                2.3 Find Median from Data Stream
+        - 3. Trie - 3 Questions
+                3.1 Word Search II
+                3.2 Palindrome Pairs
+                3.3 Design Search Autocomplete system
+        - 4. Backtracking - 2 Questions
+                4.1 Sudoku Solver
+                4.2 N-Queens
+        - 5. DFS - 2 Questions
+                5.1 Binary Tree Maximum Path Sum
+                5.2 Word Search II
+
+Before Google - Practice
 10 questions each for following pattern (for now):
 - DFS (Depth First Search)
     - Easy (3): 
@@ -52,10 +177,13 @@ AI - learn
             4. subsets -> Done (Good Question)
             5. Word Search -> Done
             6. Palindrome Partioning -> Done (Good Question)
-            7. Combination Sum
+            7. Combination Sum -> Done (Good Question)
     - Hard (2): 
             1. Sudoku Solver
             2. N-Queens
+
+
+Google - 37 Easy
 
 
 
