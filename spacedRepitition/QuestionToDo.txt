@@ -20,7 +20,7 @@ Google Interview practice - 86 Questions
         - 1. Two Pointers - 6 Questions
                 1.1 Merge Two Sorted Lists - In Rotation
                 1.2 Two Sum - Done
-                1.3 Squares of a Sorted Array
+                1.3 Squares of a Sorted Array - In Rotation
                 1.4 Backspace String Compare
                 1.5 Move Zeros
                 1.6 Is Subsequence
@@ -96,8 +96,8 @@ Google Interview practice - 86 Questions
                 3.11 Number of Islands
         - 4. Backtracking - 10 Questions
                 4.1 Word Serach - In Rotation
-                4.2 subsets
-                4.3 SubSets II
+                4.2 subsets - In Rotation
+                4.3 SubSets II - In Rotation
                 4.4 Permutations 
                 4.5 Combination Sum
                 4.6 Combination Sum II
