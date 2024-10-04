@@ -38,7 +38,7 @@ Google Interview practice - 86 Questions
                 3.4 Convert 1D Array into 2D
                 3.5 Move Zeroes 
         - 4. Fast & Slow Pointers - 4 Questions
-                4.1 Linked List Cycle
+                4.1 Linked List Cycle -> In Rotation
                 4.2 Middle of the Linked List
                 4.3 Palindrome Linked List
                 4.4 Remove Duplicates from sorted List
@@ -83,8 +83,8 @@ Google Interview practice - 86 Questions
                 2.13 Palindromic Substrings
                 2.14 Partition Equal Subset Sum
         - 3. BFS - 11 Questions
-                3.1 Graph Valid Tree
-                3.2 Number of connected components in an undirected Graph
+                3.1 Graph Valid Tree - Premium Question
+                3.2 Number of connected components in an undirected Graph - Premium Question
                 3.3 Course Schedule
                 3.4 Course Schedule II
                 3.5 Minimum Height Trees
