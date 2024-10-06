@@ -85,8 +85,8 @@ Google Interview practice - 86 Questions
         - 3. BFS - 11 Questions
                 3.1 Graph Valid Tree - Premium Question
                 3.2 Number of connected components in an undirected Graph - Premium Question
-                3.3 Course Schedule
-                3.4 Course Schedule II
+                3.3 Course Schedule - In Rotation
+                3.4 Course Schedule II -> Currently Doing it
                 3.5 Minimum Height Trees
                 3.6 Binary Tree Level Order Traversal
                 3.7 Binary Tree ZigZag Level Order Traversal
