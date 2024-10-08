@@ -53,7 +53,7 @@ Google Interview practice - 86 Questions
         - 1. DFS - 15 Questions
                 1.1 Target Sum -> In Rotation
                 1.2 Pacific Atlantic Water Flow -> In Rotation
-                1.3 Number of Islands -> In Rotation
+                1.3 Number of Islands -> Done
                 1.4 Graph Valid Tree
                 1.5 Number of connected components in an undirected graph
                 1.6 Kth Smallest Element in a BST
@@ -68,9 +68,9 @@ Google Interview practice - 86 Questions
                 1.15 Valid Binary Serach Tree
                 
         - 2. Dynamic Programming - 14 Questions
-                2.1 Target Sum
-                2.2 House Robber
-                2.3 Maximum SubArray
+                2.1 Target Sum -> In Rotation
+                2.2 House Robber -> In Rotation
+                2.3 Maximum SubArray -> In Rotation
                 2.4 House Robber II
                 2.5 Coin Change
                 2.6 Maximum Product SubArray
@@ -87,7 +87,7 @@ Google Interview practice - 86 Questions
                 3.2 Number of connected components in an undirected Graph - Premium Question
                 3.3 Course Schedule - In Rotation
                 3.4 Course Schedule II -> In Rotation
-                3.5 Minimum Height Trees -> In Rotation
+                3.5 Minimum Height Trees -> In Rotation -> Good Question
                 3.6 Binary Tree Level Order Traversal
                 3.7 Binary Tree ZigZag Level Order Traversal
                 3.8 Binary Tree Right Side View
@@ -106,8 +106,8 @@ Google Interview practice - 86 Questions
                 4.9 Palindrome Partioning
                 4.10 Letter Combinations of a Phone Number
         - 5. Binary Search - 8 questions
-                5.1 Find the Duplicate Number
-                5.2 Peak Index in a Mountain Array
+                5.1 Find the Duplicate Number -> In Rotation
+                5.2 Peak Index in a Mountain Array -> Currently Doing
                 5.3 Find Minimum in Rotated Sorted Array
                 5.4 Find Peak Element
                 5.5 Serach in Rotated sorted Array
