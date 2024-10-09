@@ -8,14 +8,20 @@ Question list:
 4. Tech Interview Handbook 
     https://www.techinterviewhandbook.org/
 follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
-system design - learn
+System Design - learn
 AI - learn
+
+Tue, Thur, Sat -> self Mock Interview
+- use leetcode mock interview session
+- Talk about time complexity 
 
 Google Interview practice - 86 Questions
 - Pattern Wise Practice
 - 3 questions per pattern then switch
 - Medium Questions Focus 
 - Weekend let spinning wheel decide a surprise question  
+- Need to starting doing questions whose pattern I don't know and 
+        talk about time complexity everytime
 - Easy - 24 Questions
         - 1. Two Pointers - 6 Questions
                 1.1 Merge Two Sorted Lists - In Rotation
