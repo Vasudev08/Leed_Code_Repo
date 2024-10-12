@@ -60,9 +60,9 @@ Google Interview practice - 86 Questions
                 1.1 Target Sum -> In Rotation
                 1.2 Pacific Atlantic Water Flow -> In Rotation
                 1.3 Number of Islands -> Done
-                1.4 Graph Valid Tree
-                1.5 Number of connected components in an undirected graph
-                1.6 Kth Smallest Element in a BST
+                1.4 Graph Valid Tree -> Premium Question
+                1.5 Number of connected components in an undirected graph  -> Premium Question
+                1.6 Kth Smallest Element in a BST -> Done
                 1.7 Course Schedule
                 1.8 Course Schedule II
                 1.9 Binary Tree Right Side View
@@ -113,8 +113,8 @@ Google Interview practice - 86 Questions
                 4.10 Letter Combinations of a Phone Number
         - 5. Binary Search - 8 questions
                 5.1 Find the Duplicate Number -> In Rotation
-                5.2 Peak Index in a Mountain Array -> Currently Doing
-                5.3 Find Minimum in Rotated Sorted Array
+                5.2 Peak Index in a Mountain Array -> In Rotation
+                5.3 Find Minimum in Rotated Sorted Array -> In Rotation
                 5.4 Find Peak Element
                 5.5 Serach in Rotated sorted Array
                 5.6 Search a 2D Matrix
