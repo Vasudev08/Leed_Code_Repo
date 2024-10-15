@@ -63,9 +63,9 @@ Google Interview practice - 86 Questions
                 1.4 Graph Valid Tree -> Premium Question
                 1.5 Number of connected components in an undirected graph  -> Premium Question
                 1.6 Kth Smallest Element in a BST -> Done
-                1.7 Course Schedule
-                1.8 Course Schedule II
-                1.9 Binary Tree Right Side View
+                1.7 Course Schedule -> In Rotation
+                1.8 Course Schedule II -> In Rotation 
+                1.9 Binary Tree Right Side View -> Currently Doing it
                 1.10 All Nodes Distance K in Binary Tree
                 1.11 Lowest Common Ancestor of a Binary Serach Tree
                 1.12 Path Sum II
@@ -94,10 +94,10 @@ Google Interview practice - 86 Questions
                 3.3 Course Schedule - In Rotation
                 3.4 Course Schedule II -> In Rotation
                 3.5 Minimum Height Trees -> In Rotation -> Good Question
-                3.6 Binary Tree Level Order Traversal
-                3.7 Binary Tree ZigZag Level Order Traversal
-                3.8 Binary Tree Right Side View
-                3.9 All Nodes Distance K in Binary Tree
+                3.6 Binary Tree Level Order Traversal -> Done
+                3.7 Binary Tree ZigZag Level Order Traversal -> In Rotation
+                3.8 Binary Tree Right Side View -> Done
+                3.9 All Nodes Distance K in Binary Tree -> In Rotation
                 3.10 Pacific Atlantic Water Flow
                 3.11 Number of Islands
         - 4. Backtracking - 10 Questions
