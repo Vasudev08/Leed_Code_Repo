@@ -15,6 +15,9 @@ Tue, Thur, Sat -> self Mock Interview
 - use leetcode mock interview session
 - Talk about time complexity 
 
+Roblox Interview Practice - x Questions
+- 1419. Minimum Number of Frogs Croaking
+
 Google Interview practice - 86 Questions
 - Pattern Wise Practice
 - 3 questions per pattern then switch
@@ -70,8 +73,8 @@ Google Interview practice - 86 Questions
                 1.11 Lowest Common Ancestor of a Binary Serach Tree -> In Rotation
                 1.12 Path Sum II -> In Rotation
                 1.13 Lowest Common Ancestor of a Binary Tree -> In Rotation
-                1.14 Construct Binary Tree from Preorder and Inorder Traversal -> Currently Doing it
-                1.15 Valid Binary Serach Tree
+                1.14 Construct Binary Tree from Preorder and Inorder Traversal -> In Rotation
+                1.15 Valid Binary Serach Tree -> In Rotation 
                 
         - 2. Dynamic Programming - 14 Questions
                 2.1 Target Sum -> In Rotation
