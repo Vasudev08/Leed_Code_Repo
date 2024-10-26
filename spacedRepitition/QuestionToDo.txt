@@ -107,8 +107,8 @@ Google Interview practice - 86 Questions
                 4.1 Word Serach - In Rotation
                 4.2 subsets - In Rotation
                 4.3 SubSets II - In Rotation
-                4.4 Permutations 
-                4.5 Combination Sum
+                4.4 Permutations - In Rotation
+                4.5 Combination Sum - In Rotation
                 4.6 Combination Sum II
                 4.7 Generate Parentheses
                 4.8 Target Sum
