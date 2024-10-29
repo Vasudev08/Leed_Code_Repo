@@ -80,7 +80,7 @@ Google Interview practice - 86 Questions
                 2.1 Target Sum -> In Rotation
                 2.2 House Robber -> In Rotation
                 2.3 Maximum SubArray -> In Rotation
-                2.4 House Robber II
+                2.4 House Robber II -> In Rotation
                 2.5 Coin Change
                 2.6 Maximum Product SubArray
                 2.7 Longest Increase Subsequence
@@ -109,16 +109,15 @@ Google Interview practice - 86 Questions
                 4.3 SubSets II - In Rotation
                 4.4 Permutations - In Rotation
                 4.5 Combination Sum - In Rotation
-                4.6 Combination Sum II
-                4.7 Generate Parentheses
-                4.8 Target Sum
-                4.9 Palindrome Partioning
-                4.10 Letter Combinations of a Phone Number
+                4.6 Combination Sum II - In Rotation
+                4.7 Generate Parentheses - In Rotation
+                4.9 Palindrome Partioning - In Rotation
+                4.10 Letter Combinations of a Phone Number - In Rotation
         - 5. Binary Search - 8 questions
                 5.1 Find the Duplicate Number -> In Rotation
                 5.2 Peak Index in a Mountain Array -> In Rotation
                 5.3 Find Minimum in Rotated Sorted Array -> In Rotation
-                5.4 Find Peak Element
+                5.4 Find Peak Element -> In Rotation
                 5.5 Serach in Rotated sorted Array
                 5.6 Search a 2D Matrix
                 5.7 Serach a 2D Matrix II
