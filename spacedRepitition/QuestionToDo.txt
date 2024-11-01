@@ -81,10 +81,10 @@ Google Interview practice - 86 Questions
                 2.2 House Robber -> In Rotation
                 2.3 Maximum SubArray -> In Rotation
                 2.4 House Robber II -> In Rotation
-                2.5 Coin Change
-                2.6 Maximum Product SubArray
-                2.7 Longest Increase Subsequence
-                2.8 Longest Palindromic Substring
+                2.5 Coin Change -> In Rotation
+                2.6 Maximum Product SubArray -> In Rotation
+                2.7 Longest Increase Subsequence -> In Rotation
+                2.8 Longest Palindromic Substring -> In Rotation
                 2.9 Work Break
                 2.10 Decode Ways
                 2.11 Unique Paths
