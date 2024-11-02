@@ -11,9 +11,14 @@ follow an ration of 3:6:1 or 3:5:2 for solving leetcode question
 System Design - learn
 AI - learn
 
-Tue, Thur, Sat -> self Mock Interview
-- use leetcode mock interview session
-- Talk about time complexity 
+NOTE: TO - Do
+- add more medium and hard questions
+- find a way to randomally select a question    
+        for particle + mock interview + for which I don't know the
+        topic or method i.e. whether it's a dp or dfs or bfs or something
+
+Self Mock Interview - On practice Questions always - ideal
+but on tues, thur, and sat
 
 Roblox Interview Practice - x Questions
 - 1419. Minimum Number of Frogs Croaking
@@ -85,9 +90,9 @@ Google Interview practice - 86 Questions
                 2.6 Maximum Product SubArray -> In Rotation
                 2.7 Longest Increase Subsequence -> In Rotation
                 2.8 Longest Palindromic Substring -> In Rotation
-                2.9 Work Break
-                2.10 Decode Ways
-                2.11 Unique Paths
+                2.9 Work Break -> In Rotation -> I Like this question
+                2.10 Decode Ways -> In Rotation -> I like this question
+                2.11 Unique Paths -> In Rotation
                 2.12 Jump Game
                 2.13 Palindromic Substrings
                 2.14 Partition Equal Subset Sum
