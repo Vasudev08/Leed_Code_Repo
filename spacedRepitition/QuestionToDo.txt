@@ -19,6 +19,9 @@ NOTE: TO - Do
 
 Self Mock Interview - On practice Questions always - ideal
 but on tues, thur, and sat
+    - randomally select questions using notion due Today table
+        where select first column which is columns names
+        and put it into wheelofnames.come to choose a random question
 
 Roblox Interview Practice - x Questions
 - 1419. Minimum Number of Frogs Croaking
@@ -93,9 +96,9 @@ Google Interview practice - 86 Questions
                 2.9 Work Break -> In Rotation -> I Like this question
                 2.10 Decode Ways -> In Rotation -> I like this question
                 2.11 Unique Paths -> In Rotation
-                2.12 Jump Game
-                2.13 Palindromic Substrings
-                2.14 Partition Equal Subset Sum
+                2.12 Jump Game -> In Rotation
+                2.13 Palindromic Substrings -> In Rotation
+                2.14 Partition Equal Subset Sum -> In Rotation
         - 3. BFS - 9 Questions
                 3.1 Graph Valid Tree - Premium Question
                 3.2 Number of connected components in an undirected Graph - Premium Question
@@ -134,20 +137,46 @@ Google Interview practice - 86 Questions
                 1.2 Minimum Number of K Conseeutive Bit Flips
                 1.3 Minimum Window Substring
                 1.4 SubString With Concatentation of All Words
+                1.5 Count Unique Characters of All substrings of a given string
         - 2. Heap - 3 Questions
                 2.1 Merge K Sorted Lists 
                 2.2 Employee Free Time
                 2.3 Find Median from Data Stream
+                2.4 Smallest Range Covering Elements from K lists
+                2.5 Employee Free Time
+                2.6 Rearrange string K distance Apart
+                2.7 Course Schedule III
+                2.8 Maximum Frequency Stack
+                2.9 Alien Dictionary
+                2.11 Sliding Window Median
+                2.12 Trapping Rain Water
         - 3. Trie - 3 Questions
                 3.1 Word Search II
                 3.2 Palindrome Pairs
                 3.3 Design Search Autocomplete system
+                3.4 Concatenated Words
+                3.5 Prefix and suffix Search
+                3.6 Palindrome Pairs
+                3.7 Design Serach Autocomplete System
+                3.8 Word Squares
         - 4. Backtracking - 2 Questions
                 4.1 Sudoku Solver
                 4.2 N-Queens
         - 5. DFS - 2 Questions
                 5.1 Binary Tree Maximum Path Sum
                 5.2 Word Search II
+                5.3 Sort Items by Groups Respecting Dependenices
+        - 6. Arrays - 
+                6.1 First Missing Positive
+        - 7. Linked List -
+                7.1 Reverse Nodes in K-Group
+        - 8. Binary Search
+                8.1 Count of Range Sum
+                8.2 Median of Two sorted Arrays
+        - 9. Two Pointers
+                9.1 Trapping Rain Water
+
+        
 
 Before Google - Practice
 10 questions each for following pattern (for now):
