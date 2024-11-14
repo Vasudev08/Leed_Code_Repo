@@ -63,8 +63,8 @@ Google Interview practice - 86 Questions
                 5.1 Missing Number
                 5.2 Single Number
         - 6. Dynamic Programming - 2 Questions
-                6.1 Climbing Stairs
-                6.2 Range Sum Query - Immutable
+                6.1 Climbing Stairs -> Done
+                6.2 Range Sum Query - Immutable -> Done
 
 - Medium - 58 Questions
         - 1. DFS - 15 Questions
@@ -126,15 +126,15 @@ Google Interview practice - 86 Questions
                 5.2 Peak Index in a Mountain Array -> In Rotation
                 5.3 Find Minimum in Rotated Sorted Array -> In Rotation
                 5.4 Find Peak Element -> In Rotation
-                5.5 Serach in Rotated sorted Array
-                5.6 Search a 2D Matrix
-                5.7 Serach a 2D Matrix II
-                5.8 Find K Closest Elements
+                5.5 Serach in Rotated sorted Array -> In Rotation
+                5.6 Search a 2D Matrix -> In Rotation
+                5.7 Serach a 2D Matrix II -> In Rotation
+                5.8 Find K Closest Elements -> In Rotation
 
-- Hard - 14 Questions
+- Hard - 31 Questions
         - 1. Sliding Window - 4 Questions
-                1.1 Sliding Window Maximum
-                1.2 Minimum Number of K Conseeutive Bit Flips
+                1.1 Sliding Window Maximum -> In Rotation
+                1.2 Minimum Number of K Conseeutive Bit Flips -> In Rotation
                 1.3 Minimum Window Substring
                 1.4 SubString With Concatentation of All Words
                 1.5 Count Unique Characters of All substrings of a given string
