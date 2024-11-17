@@ -135,9 +135,9 @@ Google Interview practice - 86 Questions
         - 1. Sliding Window - 4 Questions
                 1.1 Sliding Window Maximum -> In Rotation
                 1.2 Minimum Number of K Conseeutive Bit Flips -> In Rotation
-                1.3 Minimum Window Substring
-                1.4 SubString With Concatentation of All Words
-                1.5 Count Unique Characters of All substrings of a given string
+                1.3 Minimum Window Substring -> In Rotation
+                1.4 SubString With Concatentation of All Words -> In Rotation
+                1.5 Count Unique Characters of All substrings of a given string -> In Rotation - very difficult to understand
         - 2. Heap - 3 Questions
                 2.1 Merge K Sorted Lists 
                 2.2 Employee Free Time
