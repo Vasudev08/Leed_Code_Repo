@@ -24,6 +24,9 @@ but on tues, thur, and sat
         and put it into wheelofnames.come to choose a random question
 
 - One hard everyday + one,two medium questions practice everyday
+- Piority 1: new Hard Question
+- Piority 2: revision of old Hard Question
+- Piority 3: Revision of old medium question
 - after which we will change to different compaines questions
 
 Google Interview practice - 86 Questions
@@ -139,17 +142,13 @@ Google Interview practice - 86 Questions
                 1.4 SubString With Concatentation of All Words -> In Rotation
                 1.5 Count Unique Characters of All substrings of a given string -> In Rotation - very difficult to understand
         - 2. Heap - 12 Questions
-                2.1 Merge K Sorted Lists 
-                2.2 Employee Free Time
-                2.3 Find Median from Data Stream
-                2.4 Smallest Range Covering Elements from K lists
-                2.5 Employee Free Time
-                2.6 Rearrange string K distance Apart
-                2.7 Course Schedule III
-                2.8 Maximum Frequency Stack
-                2.9 Alien Dictionary
-                2.11 Sliding Window Median
-                2.12 Trapping Rain Water
+                2.1 Merge K Sorted Lists -> In Rotation
+                2.3 Find Median from Data Stream -> In Rotation -> Good Question
+                2.4 Smallest Range Covering Elements from K lists -> In Rotation - Good Question
+                2.7 Course Schedule III -> In Rotation
+                2.8 Maximum Frequency Stack -> In Rotation
+                2.11 Sliding Window Median -> In Rotation
+                2.12 Trapping Rain Water -> In- Progress
         - 3. Trie - 8 Questions
                 3.1 Word Search II
                 3.2 Palindrome Pairs
