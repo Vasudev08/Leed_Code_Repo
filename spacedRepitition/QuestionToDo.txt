@@ -148,19 +148,16 @@ Google Interview practice - 86 Questions
                 2.7 Course Schedule III -> In Rotation
                 2.8 Maximum Frequency Stack -> In Rotation
                 2.11 Sliding Window Median -> In Rotation
-                2.12 Trapping Rain Water -> In- Progress
+                2.12 Trapping Rain Water -> In Rotation -> Dynamic Programming
         - 3. Trie - 8 Questions
-                3.1 Word Search II
-                3.2 Palindrome Pairs
-                3.3 Design Search Autocomplete system
-                3.4 Concatenated Words
-                3.5 Prefix and suffix Search
-                3.6 Palindrome Pairs
-                3.7 Design Serach Autocomplete System
-                3.8 Word Squares
+                3.1 Word Search II ->In Rotation -> Good Question -> for revision as well
+                        - revision of backtracking, dfs traversal and TrieNode
+                3.2 Palindrome Pairs (Very Hard Question) -> In - Progress - already spend 30 mins into it + 1hr, 20 mins + 
+                3.4 Concatenated Words -> In Rotation
+                3.5 Prefix and suffix Search -> In Rotation
         - 4. Backtracking - 2 Questions
-                4.1 Sudoku Solver
-                4.2 N-Queens
+                4.1 Sudoku Solver -> In - Rotation
+                4.2 N-Queens -> do first then Sudoku Solver
         - 5. DFS - 3 Questions
                 5.1 Binary Tree Maximum Path Sum
                 5.2 Word Search II
