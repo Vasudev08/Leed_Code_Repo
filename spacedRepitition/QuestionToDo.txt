@@ -12,10 +12,7 @@ System Design - learn
 AI - learn
 
 NOTE: TO - Do
-- add more medium and hard questions
-- find a way to randomally select a question    
-        for particle + mock interview + for which I don't know the
-        topic or method i.e. whether it's a dp or dfs or bfs or something
+- Start practing for 2nd repetation for all medium and hard question
 
 Self Mock Interview - On practice Questions always - ideal
 but on tues, thur, and sat
@@ -23,11 +20,6 @@ but on tues, thur, and sat
         where select first column which is columns names
         and put it into wheelofnames.come to choose a random question
 
-- One hard everyday + one,two medium questions practice everyday
-- Piority 1: new Hard Question
-- Piority 2: revision of old Hard Question
-- Piority 3: Revision of old medium question
-- after which we will change to different compaines questions
 
 Google Interview practice - 86 Questions
 - Pattern Wise Practice
@@ -134,7 +126,7 @@ Google Interview practice - 86 Questions
                 5.7 Serach a 2D Matrix II -> In Rotation
                 5.8 Find K Closest Elements -> In Rotation
 
-- Hard - 35 Questions
+- Hard - 25 Questions
         - 1. Sliding Window - 5 Questions
                 1.1 Sliding Window Maximum -> In Rotation
                 1.2 Minimum Number of K Conseeutive Bit Flips -> In Rotation
@@ -157,20 +149,19 @@ Google Interview practice - 86 Questions
                 3.5 Prefix and suffix Search -> In Rotation
         - 4. Backtracking - 2 Questions
                 4.1 Sudoku Solver -> In - Rotation
-                4.2 N-Queens -> do first then Sudoku Solver
+                4.2 N-Queens -> do first then Sudoku Solver -> In - Rotation
         - 5. DFS - 3 Questions
-                5.1 Binary Tree Maximum Path Sum
-                5.2 Word Search II
-                5.3 Sort Items by Groups Respecting Dependenices
+                5.1 Binary Tree Maximum Path Sum -> In Rotation
+                5.2 Word Search II -> In Rotation
+                5.3 Sort Items by Groups Respecting Dependenices -> In Rotation Good Question -> topogical Sort: using adjanceyList and InDegree
         - 6. Arrays - 
-                6.1 First Missing Positive
+                6.1 First Missing Positive -> In Rotation
         - 7. Linked List -
-                7.1 Reverse Nodes in K-Group
+                7.1 Reverse Nodes in K-Group -> In Rotation 
         - 8. Binary Search
-                8.1 Count of Range Sum
-                8.2 Median of Two sorted Arrays
-        - 9. Two Pointers
-                9.1 Trapping Rain Water
+                8.1 Count of Range Sum -> In Rotation -> Very Confusing Problem
+                8.2 Median of Two sorted Arrays -> In Rotation
+        
 
         
 
