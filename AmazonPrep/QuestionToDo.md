@@ -25,10 +25,10 @@ I will be solving top 50 - 80 problems sorted by both frequecy and amazon compan
 
 ## Questions Solved & Notes
 
-- 1235. Maximum Profit in Job Scheduling - Hard
+- 1235. Maximum Profit in Job Scheduling - Hard -> 1st MP Done,
 - 767. Reoganize String - Medium
-- 200. Number of Islands - Medimum
-- 23. Merge K Sorted Lists - Hard
+- 200. Number of Islands - Medimum -> 1st MP Done Perfectly,
+- 23. Merge K Sorted Lists - Hard -> 1st MP Done Perfectly, NOTE: remember time complexity of minHeap and minHeap implementation
 - 42. Trapping Rain Water - Hard
 - 210. Course Schedule II - Medium
 - 207. Course Schedule - Medium
