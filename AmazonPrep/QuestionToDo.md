@@ -17,6 +17,8 @@
 - Record yourself doing it
 - Set a timer for 45 mins for each problem ()
 
+## Cheat Sheet - Algo Running Time & Space Time
+
 ## Questions List
 
 I will be solving top 50 - 80 problems sorted by both frequecy and amazon company tag.
@@ -29,9 +31,9 @@ I will be solving top 50 - 80 problems sorted by both frequecy and amazon compan
 - 767. Reoganize String - Medium
 - 200. Number of Islands - Medimum -> 1st MP Done Perfectly,
 - 23. Merge K Sorted Lists - Hard -> 1st MP Done Perfectly, NOTE: remember time complexity of minHeap and minHeap implementation
-- 42. Trapping Rain Water - Hard
+- 42. Trapping Rain Water - Hard -> 1st MP DONE unPerfectly, NOTE: two pointers + minHeight + maxheight update
 - 210. Course Schedule II - Medium
-- 207. Course Schedule - Medium
+- 207. Course Schedule - Medium -> 1st MP DONE almost Perfectly, NOTE: preque --> crs and in-degree mapping
 - 3. Longest Substring Without Repeating characters - Medium
 - 875. Koko Eating Bananas - Medium
 - 127. Word Ladder - Hard
