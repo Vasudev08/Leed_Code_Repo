@@ -19,6 +19,14 @@
 
 ## Cheat Sheet - Algo Running Time & Space Time
 
+- Queue : Time Complexity + Space Complexity
+  - O(1) - Append, popleft, pop
+  - O(N) - Search
+- MinHeap: Time Complexity + Space Complexity
+  - O(log n) - Heappush, Heappop
+  - O(n) - heapify
+- MaxHeap: Time Complexity + Space Complexity
+
 ## Questions List
 
 I will be solving top 50 - 80 problems sorted by both frequecy and amazon company tag.
@@ -32,7 +40,7 @@ I will be solving top 50 - 80 problems sorted by both frequecy and amazon compan
 - 200. Number of Islands - Medimum -> 1st MP Done Perfectly,
 - 23. Merge K Sorted Lists - Hard -> 1st MP Done Perfectly, NOTE: remember time complexity of minHeap and minHeap implementation
 - 42. Trapping Rain Water - Hard -> 1st MP DONE unPerfectly, NOTE: two pointers + minHeight + maxheight update
-- 210. Course Schedule II - Medium
+- 210. Course Schedule II - Medium -> 1st MP DONE Perfectly, NOTE: preque --> crs and in-degree mapping
 - 207. Course Schedule - Medium -> 1st MP DONE almost Perfectly, NOTE: preque --> crs and in-degree mapping
 - 3. Longest Substring Without Repeating characters - Medium
 - 875. Koko Eating Bananas - Medium
